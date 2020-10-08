@@ -13,7 +13,7 @@ public class Exercise3 {
         double sa = (length * width) - (Math.PI * Math.pow(diam / 2, 2));
 
         System.out.print("\nSurface area : ");
-        System.out.printf("%,.2f", sa);
+        System.out.printf("%,.2f\n", sa);
         input.close();
     }
 }

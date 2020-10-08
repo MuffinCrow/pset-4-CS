@@ -22,7 +22,7 @@ public class Exercise9 {
 
         String output = strb.toString().toUpperCase();
 
-        System.out.print("\n" + output + ".");
+        System.out.println("\n" + output + ".");
 
         input.close();
     }

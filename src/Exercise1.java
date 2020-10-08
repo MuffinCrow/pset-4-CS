@@ -12,7 +12,7 @@ public class Exercise1 {
         chill = chill + 35.74 + (0.6215 * temp);
 
         System.out.print("\nWind chill  : ");
-        System.out.printf("%,.2f", chill);
+        System.out.printf("%,.2f\n", chill);
         input.close();
     }
 }

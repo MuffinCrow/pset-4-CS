@@ -10,7 +10,7 @@ public class Exercise10 {
         System.out.print("\nText   : " + city);
         System.out.print("\nLength : " + city.length());
         System.out.print("\nUpper  : " + city.toUpperCase());
-        System.out.print("\nLower  : " + city.toLowerCase());
+        System.out.println("\nLower  : " + city.toLowerCase());
 
         input.close();
     }

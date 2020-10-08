@@ -28,7 +28,7 @@ public class Exercise8 {
         out1 = out1.toUpperCase();
         out2 = out2.toUpperCase();
 
-        System.out.print("\n" + out2 + out1 + ".");
+        System.out.println("\n" + out2 + out1 + ".");
 
         input.close();
     }

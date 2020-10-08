@@ -12,7 +12,7 @@ public class Exercise7 {
         System.out.print("\nArea      : ");
         System.out.printf("%,.2f", a);
         System.out.print("\nPerimeter : ");
-        System.out.printf("%,.2f", p);
+        System.out.printf("%,.2f\n", p);
 
         input.close();
     }

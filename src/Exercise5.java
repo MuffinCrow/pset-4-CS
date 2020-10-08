@@ -14,7 +14,7 @@ public class Exercise5 {
         System.out.print("\nArea          : ");
         System.out.printf("%,.2f", area);
         System.out.print("\nCircumference : ");
-        System.out.printf("%,.2f", circ);
+        System.out.printf("%,.2f\n", circ);
 
         input.close();
     }

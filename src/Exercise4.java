@@ -14,7 +14,7 @@ public class Exercise4 {
 
         System.out.print("\nKilometers  : " + kilo);
         System.out.print("\nMeters      : " + meter);
-        System.out.print("\nCentimeters : " + cent);
+        System.out.println("\nCentimeters : " + cent);
 
         input.close();
     }

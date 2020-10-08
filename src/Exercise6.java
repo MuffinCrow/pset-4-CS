@@ -17,7 +17,7 @@ public class Exercise6 {
         System.out.print("\nPerimeter : ");
         System.out.printf("%,.2f", p);
         System.out.print("\nDiagonal  : ");
-        System.out.printf("%,.2f", d);
+        System.out.printf("%,.2f\n", d);
 
         input.close();
     }
